@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dhpark
+Build-Jdk: 17.0.3
+Implementation-Title: currency-exchange
+Implementation-Version: 0.0.5-RELEASE
+Implementation-Vendor-Id: com.hellohyunutes.microservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/04-currency-exchange-basic
+Created-By: Maven Integration for Eclipse
+
